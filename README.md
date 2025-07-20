@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 ## 🚀 Current Project
 
-[Classic Games (not sure what now)]([https://github.com/TomasArmada/game-ideas](https://github.com/TomasArmada/Classic-Games))
+[`Classic Games`](https://github.com/TomasArmada/Classic-Games)
 
 ---
 
